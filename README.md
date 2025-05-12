@@ -1,0 +1,2 @@
+# Emotional-detection
+Detect emotions
